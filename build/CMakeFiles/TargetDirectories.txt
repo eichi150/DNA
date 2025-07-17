@@ -1,0 +1,3 @@
+/home/eichi/Dev/Projekte/balls/build/CMakeFiles/DNA.dir
+/home/eichi/Dev/Projekte/balls/build/CMakeFiles/edit_cache.dir
+/home/eichi/Dev/Projekte/balls/build/CMakeFiles/rebuild_cache.dir

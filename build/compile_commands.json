@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/eichi/Dev/Projekte/balls/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -g -std=gnu++17 -o CMakeFiles/DNA.dir/main.cpp.o -c /home/eichi/Dev/Projekte/balls/main.cpp",
+  "file": "/home/eichi/Dev/Projekte/balls/main.cpp"
+},
+{
+  "directory": "/home/eichi/Dev/Projekte/balls/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -g -std=gnu++17 -o CMakeFiles/DNA.dir/airplane.cpp.o -c /home/eichi/Dev/Projekte/balls/airplane.cpp",
+  "file": "/home/eichi/Dev/Projekte/balls/airplane.cpp"
+},
+{
+  "directory": "/home/eichi/Dev/Projekte/balls/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -g -std=gnu++17 -o CMakeFiles/DNA.dir/animator.cpp.o -c /home/eichi/Dev/Projekte/balls/animator.cpp",
+  "file": "/home/eichi/Dev/Projekte/balls/animator.cpp"
+},
+{
+  "directory": "/home/eichi/Dev/Projekte/balls/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -g -std=gnu++17 -o CMakeFiles/DNA.dir/circle.cpp.o -c /home/eichi/Dev/Projekte/balls/circle.cpp",
+  "file": "/home/eichi/Dev/Projekte/balls/circle.cpp"
+}
+]
